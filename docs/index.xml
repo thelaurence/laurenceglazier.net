@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laurenceglazier.net</title>
+    <link>http://laurenceglazier.net/</link>
+    <description>Recent content on laurenceglazier.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
+    
+	<atom:link href="http://laurenceglazier.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Switch to Hugo</title>
+      <link>http://laurenceglazier.net/posts/switch-to-hugo/</link>
+      <pubDate>Sun, 20 Aug 2017 19:33:33 -0600</pubDate>
+      
+      <guid>http://laurenceglazier.net/posts/switch-to-hugo/</guid>
+      <description>Switched to Hugo. Free static hosting on GitHub. Happy.
+I have never been an active bloggist, but I like having a blog.
+I got sick of maintaining my own web server.
+So I started poking around looking for a simple alternative. My blog always was basically a small collection of static posts, and, as a programmer, I&amp;rsquo;m accustomed to working in a regular text editor, and feel no need for a fancy web portal.</description>
+    </item>
+    
+  </channel>
+</rss>

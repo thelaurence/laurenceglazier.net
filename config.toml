@@ -1,0 +1,5 @@
+baseURL = "http://laurenceglazier.net/"
+languageCode = "en-us"
+title = "laurenceglazier.net"
+theme = "blank"
+publishDir = "docs"
