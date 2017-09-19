@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>laurence&#39;s website</title>
-    <link>http://laurenceglazier.net/</link>
-    <description>Recent content on laurence&#39;s website</description>
+    <title>Blog Posts on laurence&#39;s website</title>
+    <link>http://laurenceglazier.net/categories/blog-posts/</link>
+    <description>Recent content in Blog Posts on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Laurence Glazier</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
     
-	<atom:link href="http://laurenceglazier.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laurenceglazier.net/categories/blog-posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

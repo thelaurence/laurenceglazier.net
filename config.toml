@@ -1,5 +1,17 @@
-baseURL = "http://laurenceglazier.net/"
-languageCode = "en-us"
-title = "laurenceglazier.net"
-theme = "blank"
+theme = "hyde"
+archetypeDir = "archetypes"
+contentDir = "content"
+layoutDir = "layouts"
 publishDir = "docs"
+buildDrafts = true
+baseURL = "http://laurenceglazier.net"
+title = "laurence's website"
+canonifyURLs = "false"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Just a place to post some things."
+  copyright = "Laurence Glazier"

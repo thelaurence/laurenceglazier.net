@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on laurenceglazier.net</title>
+    <title>Categories on laurence&#39;s website</title>
     <link>http://laurenceglazier.net/categories/</link>
-    <description>Recent content in Categories on laurenceglazier.net</description>
+    <description>Recent content in Categories on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Laurence Glazier</copyright>
+    <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
     
 	<atom:link href="http://laurenceglazier.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog Posts</title>
+      <link>http://laurenceglazier.net/categories/blog-posts/</link>
+      <pubDate>Sun, 20 Aug 2017 19:33:33 -0600</pubDate>
+      
+      <guid>http://laurenceglazier.net/categories/blog-posts/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

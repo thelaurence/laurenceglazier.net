@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on laurenceglazier.net</title>
+    <title>Posts on laurence&#39;s website</title>
     <link>http://laurenceglazier.net/posts/</link>
-    <description>Recent content in Posts on laurenceglazier.net</description>
+    <description>Recent content in Posts on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Laurence Glazier</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
     
 	<atom:link href="http://laurenceglazier.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Switch to Hugo</title>
-      <link>http://laurenceglazier.net/posts/switch-to-hugo/</link>
+      <title>Switched to Hugo</title>
+      <link>http://laurenceglazier.net/posts/switched-to-hugo/</link>
       <pubDate>Sun, 20 Aug 2017 19:33:33 -0600</pubDate>
       
-      <guid>http://laurenceglazier.net/posts/switch-to-hugo/</guid>
-      <description>Switched to Hugo. Free static hosting on GitHub. Happy.
-I have never been an active bloggist, but I like having a blog.
-I got sick of maintaining my own web server.
-So I started poking around looking for a simple alternative. My blog always was basically a small collection of static posts, and, as a programmer, I&amp;rsquo;m accustomed to working in a regular text editor, and feel no need for a fancy web portal.</description>
+      <guid>http://laurenceglazier.net/posts/switched-to-hugo/</guid>
+      <description>I have never been a very active bloggist, but I like having a quiet place to post some things. After a couple years of self hosting my blog on an old laptop in my closet, I finally got tired of trying to keep a web server up all the time.
+So I started poking around looking for a simple alternative. I realized that my site had never been anything more than a small collection of static posts, that I prefer writing in a plain old text editor to writing in a fancy web portal, and discovered you can host small amounts of static content on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>What is a Hack?</title>
+      <link>http://laurenceglazier.net/posts/what-is-hack/</link>
+      <pubDate>Tue, 09 Feb 2016 01:01:00 -0600</pubDate>
+      
+      <guid>http://laurenceglazier.net/posts/what-is-hack/</guid>
+      <description>hack verb | \ˈhak\
+ n. Originally, a quick job that produces what is needed, but not well.  Anything on this blog bearing the hack tag will probably fall under the first of these two definitions. I anticipate that such posts will generally be more entertaining than useful.</description>
+    </item>
+    
+    <item>
+      <title>Here&#39;s a Photo</title>
+      <link>http://laurenceglazier.net/posts/heres-a-photo/</link>
+      <pubDate>Sat, 22 Aug 2015 07:48:20 -0600</pubDate>
+      
+      <guid>http://laurenceglazier.net/posts/heres-a-photo/</guid>
+      <description>Just trying out Hugo&amp;rsquo;s instagram shortcode.
+ Schoolroom Glacier and Grand Teton
+A post shared by laurence (@the.laurence) on Aug 2, 2015 at 4:39pm PDT
+  </description>
     </item>
     
   </channel>

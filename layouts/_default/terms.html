@@ -1,0 +1,11 @@
+{{ define "main" -}}
+<section id="main">
+  <div>
+   <h1 id="title">{{ .Title }}</h1>
+   {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+    <h2><a href="{{ $value.Name | urlize }}">{{ ($.Site.GetPage "taxonomy" $data.Plural $value.Name).Title }}</a> {{ $value.Count }}</h2>
+    {{ end }}
+  </div>
+</section>
+{{- end }}
