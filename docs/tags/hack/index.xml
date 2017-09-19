@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hack on laurence&#39;s website</title>
-    <link>http://laurenceglazier.net/tags/hack/</link>
+    <link>https://laurenceglazier.net/tags/hack/</link>
     <description>Recent content in Hack on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Laurence Glazier</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
     
-	<atom:link href="http://laurenceglazier.net/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laurenceglazier.net/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Switched to Hugo</title>
-      <link>http://laurenceglazier.net/posts/switched-to-hugo/</link>
+      <link>https://laurenceglazier.net/posts/switched-to-hugo/</link>
       <pubDate>Sun, 20 Aug 2017 19:33:33 -0600</pubDate>
       
-      <guid>http://laurenceglazier.net/posts/switched-to-hugo/</guid>
+      <guid>https://laurenceglazier.net/posts/switched-to-hugo/</guid>
       <description>I have never been a very active bloggist, but I like having a quiet place to post some things. After a couple years of self hosting my blog on an old laptop in my closet, I finally got tired of trying to keep a web server up all the time.
 So I started poking around looking for a simple alternative. I realized that my site had never been anything more than a small collection of static posts, that I prefer writing in a plain old text editor to writing in a fancy web portal, and discovered you can host small amounts of static content on GitHub.</description>
     </item>
     
     <item>
       <title>What is a Hack?</title>
-      <link>http://laurenceglazier.net/posts/what-is-hack/</link>
+      <link>https://laurenceglazier.net/posts/what-is-hack/</link>
       <pubDate>Tue, 09 Feb 2016 01:01:00 -0600</pubDate>
       
-      <guid>http://laurenceglazier.net/posts/what-is-hack/</guid>
+      <guid>https://laurenceglazier.net/posts/what-is-hack/</guid>
       <description>hack verb | \ˈhak\
  n. Originally, a quick job that produces what is needed, but not well.  Anything on this blog bearing the hack tag will probably fall under the first of these two definitions. I anticipate that such posts will generally be more entertaining than useful.</description>
     </item>
