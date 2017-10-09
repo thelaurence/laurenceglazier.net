@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on laurence&#39;s website</title>
-    <link>http://laurenceglazier.net/categories/</link>
+    <link>http://thelaurence.com/categories/</link>
     <description>Recent content in Categories on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Laurence Glazier</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
     
-	<atom:link href="http://laurenceglazier.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://thelaurence.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog Posts</title>
-      <link>http://laurenceglazier.net/categories/blog-posts/</link>
+      <link>http://thelaurence.com/categories/blog-posts/</link>
       <pubDate>Sun, 20 Aug 2017 19:33:33 -0600</pubDate>
       
-      <guid>http://laurenceglazier.net/categories/blog-posts/</guid>
+      <guid>http://thelaurence.com/categories/blog-posts/</guid>
       <description></description>
     </item>
     

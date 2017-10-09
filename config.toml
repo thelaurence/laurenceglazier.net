@@ -4,7 +4,7 @@ contentDir = "content"
 layoutDir = "layouts"
 publishDir = "docs"
 buildDrafts = true
-baseURL = "http://laurenceglazier.net/"
+baseURL = "http://thelaurence.com/"
 title = "laurence's website"
 canonifyURLs = "false"
 
