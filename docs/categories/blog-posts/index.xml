@@ -6,10 +6,20 @@
     <description>Recent content in Blog Posts on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Laurence Glazier</copyright>
-    <lastBuildDate>Sun, 20 Aug 2017 19:33:33 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 17:53:46 -0600</lastBuildDate>
     
 	<atom:link href="http://thelaurence.com/categories/blog-posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Copy Seller&#39;s Phone Number on KSL.com Classifieds</title>
+      <link>http://thelaurence.com/posts/ksl-copy-phone/</link>
+      <pubDate>Fri, 13 Oct 2017 17:53:46 -0600</pubDate>
+      
+      <guid>http://thelaurence.com/posts/ksl-copy-phone/</guid>
+      <description>Trying out the gist shortcode :)
+ </description>
+    </item>
     
     <item>
       <title>Switched to Hugo</title>
@@ -17,18 +27,8 @@
       <pubDate>Sun, 20 Aug 2017 19:33:33 -0600</pubDate>
       
       <guid>http://thelaurence.com/posts/switched-to-hugo/</guid>
-      <description>I have never been a very active bloggist, but I like having a quiet place to post some things. After a couple years of self hosting my blog on an old laptop in my closet, I finally got tired of trying to keep a web server up all the time.
-So I started poking around looking for a simple alternative. I realized that my site had never been anything more than a small collection of static posts, that I prefer writing in a plain old text editor to writing in a fancy web portal, and discovered you can host small amounts of static content on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>What is a Hack?</title>
-      <link>http://thelaurence.com/posts/what-is-hack/</link>
-      <pubDate>Tue, 09 Feb 2016 01:01:00 -0600</pubDate>
-      
-      <guid>http://thelaurence.com/posts/what-is-hack/</guid>
-      <description>hack verb | \ˈhak\
- n. Originally, a quick job that produces what is needed, but not well.  Anything on this blog bearing the hack tag will probably fall under the first of these two definitions. I anticipate that such posts will generally be more entertaining than useful.</description>
+      <description>I have never been a very active bloggist, but I like having a quiet place to post some things. After a couple years of self hosting my blog on an old desktop in my closet, I finally got tired of trying to keep a web server up all the time.
+So I started looking around looking for a simpler alternative. I realized that my site had never been anything more than a small collection of static posts, that I kind of prefer writing in emacs to writing in a web GUI, and that it&amp;rsquo;s very unlikely that I would ever hit the GitHub Pages usage limits.</description>
     </item>
     
     <item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacks on laurence&#39;s website</title>
+    <link>http://thelaurence.com/tags/hacks/</link>
+    <description>Recent content in Hacks on laurence&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Laurence Glazier</copyright>
+    <lastBuildDate>Fri, 13 Oct 2017 17:53:46 -0600</lastBuildDate>
+    
+	<atom:link href="http://thelaurence.com/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Copy Seller&#39;s Phone Number on KSL.com Classifieds</title>
+      <link>http://thelaurence.com/posts/ksl-copy-phone/</link>
+      <pubDate>Fri, 13 Oct 2017 17:53:46 -0600</pubDate>
+      
+      <guid>http://thelaurence.com/posts/ksl-copy-phone/</guid>
+      <description>Trying out the gist shortcode :)
+ </description>
+    </item>
+    
+  </channel>
+</rss>
