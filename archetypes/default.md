@@ -1,9 +1,8 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
-draft = "true"
-description = ""
+date = "{{ .Date }}"
+draft = true
 tags = []
-categories = []
+topics = []
+description = ""
 +++
-

@@ -3,30 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://thelaurence.com/posts/ksl-copy-phone/</loc>
+    <loc>http://thelaurence.com/contact/</loc>
+    <lastmod>2017-11-07T21:48:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thelaurence.com/about/</loc>
+    <lastmod>2017-11-07T21:44:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thelaurence.com/post/ksl-copy-phone/</loc>
     <lastmod>2017-10-13T17:53:46-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://thelaurence.com/posts/switched-to-hugo/</loc>
+    <loc>http://thelaurence.com/post/switched-to-hugo/</loc>
     <lastmod>2017-08-20T19:33:33-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://thelaurence.com/posts/heres-a-photo/</loc>
+    <loc>http://thelaurence.com/post/heres-a-photo/</loc>
     <lastmod>2015-08-22T07:48:20-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thelaurence.com/categories/blog-posts/</loc>
-    <lastmod>2017-10-13T17:53:46-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://thelaurence.com/categories/</loc>
-    <lastmod>2017-10-13T17:53:46-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -48,13 +46,31 @@
   </url>
   
   <url>
+    <loc>http://thelaurence.com/topics/just-for-fun/</loc>
+    <lastmod>2015-08-22T07:48:20-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thelaurence.com/topics/misc./</loc>
+    <lastmod>2017-08-20T19:33:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://thelaurence.com/tags/photos/</loc>
     <lastmod>2015-08-22T07:48:20-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thelaurence.com/posts/</loc>
+    <loc>http://thelaurence.com/post/</loc>
+    <lastmod>2017-10-13T17:53:46-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thelaurence.com/topics/programming/</loc>
     <lastmod>2017-10-13T17:53:46-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -66,8 +82,14 @@
   </url>
   
   <url>
+    <loc>http://thelaurence.com/topics/</loc>
+    <lastmod>2015-08-22T07:48:20-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://thelaurence.com/</loc>
-    <lastmod>2017-10-13T17:53:46-06:00</lastmod>
+    <lastmod>2017-11-07T21:48:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   

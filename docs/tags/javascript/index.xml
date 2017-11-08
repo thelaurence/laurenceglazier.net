@@ -5,6 +5,7 @@
     <link>http://thelaurence.com/tags/javascript/</link>
     <description>Recent content in Javascript on laurence&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>Laurence Glazier</copyright>
     <lastBuildDate>Fri, 13 Oct 2017 17:53:46 -0600</lastBuildDate>
     
@@ -13,10 +14,10 @@
     
     <item>
       <title>Copy Seller&#39;s Phone Number on KSL.com Classifieds</title>
-      <link>http://thelaurence.com/posts/ksl-copy-phone/</link>
+      <link>http://thelaurence.com/post/ksl-copy-phone/</link>
       <pubDate>Fri, 13 Oct 2017 17:53:46 -0600</pubDate>
       
-      <guid>http://thelaurence.com/posts/ksl-copy-phone/</guid>
+      <guid>http://thelaurence.com/post/ksl-copy-phone/</guid>
       <description>Trying out the gist shortcode :)
  </description>
     </item>

@@ -1,11 +1,18 @@
-{{ define "main" -}}
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-   {{ $data := .Data }}
-    {{ range $key, $value := .Data.Terms.ByCount }}
-    <h2><a href="{{ $value.Name | urlize }}">{{ ($.Site.GetPage "taxonomy" $data.Plural $value.Name).Title }}</a> {{ $value.Count }}</h2>
-    {{ end }}
-  </div>
-</section>
-{{- end }}
+{{ partial "header.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+  <ul>
+  {{ $data := .Data }}
+  {{ range $key, $value := .Data.Terms.ByCount }}
+    <li>
+      <a href="{{ $value.Name | urlize }}">{{ $value.Name }}</a>
+      <span>&#40;{{ $value.Count }}&#41;</span>
+    </li>
+  {{ end }}
+  </ul>
+</div>
+
+{{ partial "footer.html" . }}
